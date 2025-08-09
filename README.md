@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3778-transform-array-by-parity](https://github.com/Pr17-git/Leet-it-go/tree/master/3778-transform-array-by-parity) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Pr17-git/Leet-it-go/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pr17-git/Leet-it-go/tree/master/0387-first-unique-character-in-a-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
