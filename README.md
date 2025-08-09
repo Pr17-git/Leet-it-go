@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0240-search-a-2d-matrix-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Pr17-git/Leet-it-go/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pr17-git/Leet-it-go/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Pr17-git/Leet-it-go/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pr17-git/Leet-it-go/tree/master/0387-first-unique-character-in-a-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -102,4 +104,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Pr17-git/Leet-it-go/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
