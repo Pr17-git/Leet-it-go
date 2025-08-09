@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Pr17-git/Leet-it-go/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pr17-git/Leet-it-go/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0240-search-a-2d-matrix-ii) |
+| [1791-richest-customer-wealth](https://github.com/Pr17-git/Leet-it-go/tree/master/1791-richest-customer-wealth) |
 ## Recursion
 |  |
 | ------- |
