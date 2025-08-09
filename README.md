@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Pr17-git/Leet-it-go/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pr17-git/Leet-it-go/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Pr17-git/Leet-it-go/tree/master/2812-find-the-maximum-achievable-number) |
 ## Brainteaser
 |  |
 | ------- |
