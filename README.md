@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pr17-git/Leet-it-go/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Pr17-git/Leet-it-go/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pr17-git/Leet-it-go/tree/master/0387-first-unique-character-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pr17-git/Leet-it-go/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pr17-git/Leet-it-go/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
 ## Brainteaser
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pr17-git/Leet-it-go/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
