@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pr17-git/Leet-it-go/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0219-contains-duplicate-ii) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pr17-git/Leet-it-go/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Pr17-git/Leet-it-go/tree/master/0290-word-pattern) |
 ## String
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
