@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pr17-git/Leet-it-go/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Pr17-git/Leet-it-go/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pr17-git/Leet-it-go/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Pr17-git/Leet-it-go/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Pr17-git/Leet-it-go/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
