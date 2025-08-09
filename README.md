@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Pr17-git/Leet-it-go/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2058-concatenation-of-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pr17-git/Leet-it-go/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1603-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
