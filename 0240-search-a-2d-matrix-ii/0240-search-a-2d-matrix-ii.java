@@ -1,0 +1,7 @@
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        return Arrays.stream(matrix)
+                               .flatMapToInt(Arrays::stream)
+                               .anyMatch(n -> n == target);
+    }
+}
