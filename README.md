@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Pr17-git/Leet-it-go/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pr17-git/Leet-it-go/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Pr17-git/Leet-it-go/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pr17-git/Leet-it-go/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1610-xor-operation-in-an-array) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pr17-git/Leet-it-go/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Pr17-git/Leet-it-go/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Pr17-git/Leet-it-go/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
