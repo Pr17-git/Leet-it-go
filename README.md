@@ -15,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pr17-git/Leet-it-go/tree/master/0020-valid-parentheses) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pr17-git/Leet-it-go/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
