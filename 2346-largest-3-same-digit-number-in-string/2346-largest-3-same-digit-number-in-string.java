@@ -29,16 +29,7 @@ class Solution {
         if(l.size()==0){
             return "";
         }
-        int arr[]=new int[l.size()];
-        for(int i=0;i<l.size();i++){
-            int d=Integer.parseInt(l.get(i));
-            arr[i]=d;
-        }
-        int g=Arrays.stream(arr).max().orElse(0);
-        String k=Integer.toString(g);
-        if(k.length()==1){
-            k="000";
-        }
-        return k;
+        Collections.sort(l);
+        return l.get(l.size()-1);
     }
 }
