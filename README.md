@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Pr17-git/Leet-it-go/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/Pr17-git/Leet-it-go/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Pr17-git/Leet-it-go/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
