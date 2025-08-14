@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Pr17-git/Leet-it-go/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pr17-git/Leet-it-go/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Pr17-git/Leet-it-go/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Pr17-git/Leet-it-go/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1580-shuffle-the-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Pr17-git/Leet-it-go/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
