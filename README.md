@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Pr17-git/Leet-it-go/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pr17-git/Leet-it-go/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Pr17-git/Leet-it-go/tree/master/0782-jewels-and-stones) |
+| [1797-goal-parser-interpretation](https://github.com/Pr17-git/Leet-it-go/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 ## Stack
