@@ -22,7 +22,7 @@ class Solution {
                     l.add(h);
                 }
             }
-        }
+        }System.out.println(l);
         if(u==0){
             return a;
         }
@@ -34,7 +34,7 @@ class Solution {
             int d=Integer.parseInt(l.get(i));
             arr[i]=d;
         }
-        int g=Arrays.stream(arr).max().orElse(000);
+        int g=Arrays.stream(arr).max().orElse(0);
         String k=Integer.toString(g);
         if(k.length()==1){
             k="000";
