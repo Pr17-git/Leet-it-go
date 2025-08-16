@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Pr17-git/Leet-it-go/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Pr17-git/Leet-it-go/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Pr17-git/Leet-it-go/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/Pr17-git/Leet-it-go/tree/master/1797-goal-parser-interpretation) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Pr17-git/Leet-it-go/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Pr17-git/Leet-it-go/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2231-find-first-palindromic-string-in-the-array) |
