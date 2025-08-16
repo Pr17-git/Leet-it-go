@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Pr17-git/Leet-it-go/tree/master/0371-sum-of-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pr17-git/Leet-it-go/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Pr17-git/Leet-it-go/tree/master/2383-add-two-integers) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
