@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pr17-git/Leet-it-go/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Pr17-git/Leet-it-go/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Pr17-git/Leet-it-go/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Pr17-git/Leet-it-go/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Pr17-git/Leet-it-go/tree/master/0371-sum-of-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Pr17-git/Leet-it-go/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1448-maximum-69-number) |
@@ -126,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Pr17-git/Leet-it-go/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Pr17-git/Leet-it-go/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pr17-git/Leet-it-go/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Pr17-git/Leet-it-go/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pr17-git/Leet-it-go/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Pr17-git/Leet-it-go/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Pr17-git/Leet-it-go/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Pr17-git/Leet-it-go/tree/master/0371-sum-of-two-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
