@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Pr17-git/Leet-it-go/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/Pr17-git/Leet-it-go/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pr17-git/Leet-it-go/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/Pr17-git/Leet-it-go/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Pr17-git/Leet-it-go/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Pr17-git/Leet-it-go/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Pr17-git/Leet-it-go/tree/master/1970-sorting-the-sentence) |
 | [3778-transform-array-by-parity](https://github.com/Pr17-git/Leet-it-go/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
