@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pr17-git/Leet-it-go/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Pr17-git/Leet-it-go/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3778-transform-array-by-parity](https://github.com/Pr17-git/Leet-it-go/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Pr17-git/Leet-it-go/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pr17-git/Leet-it-go/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pr17-git/Leet-it-go/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Pr17-git/Leet-it-go/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
 |  |
