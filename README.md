@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Pr17-git/Leet-it-go/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pr17-git/Leet-it-go/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/Pr17-git/Leet-it-go/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Pr17-git/Leet-it-go/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pr17-git/Leet-it-go/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Pr17-git/Leet-it-go/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/Pr17-git/Leet-it-go/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pr17-git/Leet-it-go/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
