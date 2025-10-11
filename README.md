@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Pr17-git/Leet-it-go/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Pr17-git/Leet-it-go/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3194-find-words-containing-character](https://github.com/Pr17-git/Leet-it-go/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pr17-git/Leet-it-go/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pr17-git/Leet-it-go/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/Pr17-git/Leet-it-go/tree/master/1791-richest-customer-wealth) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Pr17-git/Leet-it-go/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Recursion
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Pr17-git/Leet-it-go/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pr17-git/Leet-it-go/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Pr17-git/Leet-it-go/tree/master/1970-sorting-the-sentence) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Pr17-git/Leet-it-go/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3778-transform-array-by-parity](https://github.com/Pr17-git/Leet-it-go/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
