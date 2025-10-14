@@ -1,8 +1,8 @@
 class Solution {
     public boolean hasIncreasingSubarrays(List<Integer> l, int k) {
-        // if(k==1){
-        //     return true;
-        // }
+        if(k==1){
+            return true;
+        }
         for(int i=0;i<=l.size()-(k*2);i++){
             int y=0;
             boolean b=false;
