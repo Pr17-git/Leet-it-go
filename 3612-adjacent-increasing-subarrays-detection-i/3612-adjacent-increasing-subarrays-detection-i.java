@@ -13,8 +13,6 @@ class Solution {
             }
             m.addAll(n);
             Collections.sort(m);
-            System.out.println(n);
-            System.out.println(m);
             if(m.equals(n)){
                 for(int g=0;g<n.size()-1;g++){
                     if(n.get(g)>=n.get(g+1)){
@@ -31,13 +29,10 @@ class Solution {
             }
             m.addAll(n);
             Collections.sort(m);
-            System.out.println(n);
-            System.out.println(m);
             if(m.equals(n)&&b==true){
                 for(int g=0;g<n.size()-1;g++){
                     if(n.get(g)>=n.get(g+1)){
                         y++;
-                        //b=false;
                         break;
                     }
                 }
