@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pr17-git/Leet-it-go/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pr17-git/Leet-it-go/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pr17-git/Leet-it-go/tree/master/0023-merge-k-sorted-lists) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -212,4 +214,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pr17-git/Leet-it-go/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Pr17-git/Leet-it-go/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pr17-git/Leet-it-go/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
