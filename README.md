@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Pr17-git/Leet-it-go/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Pr17-git/Leet-it-go/tree/master/1642-water-bottles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pr17-git/Leet-it-go/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Pr17-git/Leet-it-go/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Pr17-git/Leet-it-go/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Pr17-git/Leet-it-go/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pr17-git/Leet-it-go/tree/master/2812-find-the-maximum-achievable-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Pr17-git/Leet-it-go/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Pr17-git/Leet-it-go/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pr17-git/Leet-it-go/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Pr17-git/Leet-it-go/tree/master/2288-count-operations-to-obtain-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pr17-git/Leet-it-go/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Pr17-git/Leet-it-go/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
