@@ -15,7 +15,6 @@ class Solution {
             }
             a=num1+num2;
             b++;
-            System.out.println(num1+" "+num2);
         }
         return b;
     }
